@@ -63,6 +63,8 @@ git config --global user.name "USERNAME"
 ```bash
 git config --global user.email "USEREMAIL"
 ```
+- sample:-
+  
 ![Screenshot_20240528_214919](https://github.com/23225a4502/slashmark_tuts/assets/170292118/0854f037-bd6c-4937-a98b-a628c106336e)
 
 ## 2.To download the project files from slash mark website
