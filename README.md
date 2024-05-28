@@ -6,6 +6,10 @@ create [github](https://github.com/) account here
 
 click [Create Repository](https://github.com/new) to create a repository
 
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/609e7fb2-d319-494f-96f8-525d70aee2f6
+
+
 ## 3.Create SSH key
 
 ### To create an SSH key, follow these steps:
@@ -73,7 +77,7 @@ git init -b main
 git add .
 git commit -m "slash mark projects"
 ```
-sample video:-
+- sample video:-
 
 https://github.com/23225a4502/slashmark_tuts/assets/170292118/d0f8f4d2-ac9e-43f3-8177-d18ff885244e
 
