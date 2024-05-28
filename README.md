@@ -30,11 +30,15 @@ cat ~/.ssh/id_ed25519.pub
 
 #### 1.In your GitHub account settings, navigate to SSH and GPG keys > New SSH key.
 
-#### 6.In the "Title" field, enter a descriptive name for your key (e.g., "Personal Laptop").
+#### 2.In the "Title" field, enter a descriptive name for your key (e.g., "Personal Laptop").
 
 #### 3.Paste your public key into the "Key" field.
 
 #### 4.Click Add SSH key.
+- instruction video:-
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/451ae0af-534e-4e7e-9203-16302b499ca1
+
 
 ## 5.To download the project files from slash mark website
 
