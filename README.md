@@ -20,12 +20,10 @@ ssh-keygen
 
 example video below
 
-[video]()
-
 ## 4.add ssh key in github
 
 ```bash
-cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_ed25519.pub
 ```
 
 #### 1.In your GitHub account settings, navigate to SSH and GPG keys > New SSH key.
