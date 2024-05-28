@@ -121,6 +121,10 @@ git push origin main
 ![Screenshot_20240528_234925](https://github.com/23225a4502/slashmark_tuts/assets/170292118/e222b679-8082-4fe9-9d2d-cb74047c4204)
 
 
+- Mine "sample":-
    
+![Screenshot_20240529_003134](https://github.com/23225a4502/slashmark_tuts/assets/170292118/f8d8b0cd-c7af-454c-8a55-15d88de16416)
 
-Nagendra Gubbala 😄
+# wait for upload tutorial
+
+Nagendra Gubbala 😈
