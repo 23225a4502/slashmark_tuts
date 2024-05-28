@@ -18,7 +18,7 @@ click [Create Repository](https://github.com/new) to create a repository
 ssh-keygen
 ```
 
-example video below
+example video below:-
 
 ## 4.add ssh key in github
 
@@ -39,6 +39,25 @@ cat ~/.ssh/id_ed25519.pub
 click [here](https://slashmark.cloud/login1.php) goto slash mark
 
 ## 6.extract the files
+
+# Git
+
+- 1.open terminal
+- 2.check git installed or not by below command
+
+```bash
+git --version
+```
+
+- 3.add global configuration
+
+```bash
+git config --global user.name "USERNAME"
+```
+
+```bash
+git config --global user.email "USEREMAIL"
+```
 
 ## 7.push project to github repository
 
