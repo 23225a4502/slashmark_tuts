@@ -71,6 +71,12 @@ git config --global user.email "USEREMAIL"
 
 click [here](https://slashmark.cloud/login1.php) goto slash mark
 
+
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/d0d6dfd9-9bd5-4708-b4e6-b78250111c62
+
+
+
 ## 3.extract the files
 ## 4.push project to github repository
 
@@ -86,12 +92,21 @@ https://github.com/23225a4502/slashmark_tuts/assets/170292118/d0f8f4d2-ac9e-43f3
 
 ### 5.after those commands execution open the github repository and copy the line of code as shown in the **video**
 
-[video]()
+- sample video:-
+
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/e6d36e9c-e23f-45c3-bdb6-2036c3d8d9bc
+
 
 ### 5.final command to push to github repository
 
 ```bash
 git push origin main
 ```
+- usage:-
+![Screenshot_20240528_234925](https://github.com/23225a4502/slashmark_tuts/assets/170292118/e222b679-8082-4fe9-9d2d-cb74047c4204)
+
+
+   
 
 Nagendra Gubbala 😄
