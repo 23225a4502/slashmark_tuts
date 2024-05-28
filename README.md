@@ -18,7 +18,9 @@ click [Create Repository](https://github.com/new) to create a repository
 ssh-keygen
 ```
 
-example video below
+example video below:-
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/b8698064-479e-41f0-8c19-bbf76c8ddfdf
 
 ## 4.add ssh key in github
 
