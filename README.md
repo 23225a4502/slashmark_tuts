@@ -46,6 +46,13 @@ https://github.com/23225a4502/slashmark_tuts/assets/170292118/451ae0af-534e-4e7e
 
 # Git
 
+## git installation
+
+- windows 11 :-
+```bash
+winget install Git.Git
+```
+
 - 1.open terminal
 - 2.check git installed or not by below command
 
@@ -78,6 +85,13 @@ https://github.com/23225a4502/slashmark_tuts/assets/170292118/d0d6dfd9-9bd5-4708
 
 
 ## 3.extract the files
+
+
+
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/3b5a0693-8212-4637-ae68-d84bc7d88292
+
+
+
 ## 4.push project to github repository
 
 ```bash
