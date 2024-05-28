@@ -40,12 +40,6 @@ cat ~/.ssh/id_ed25519.pub
 
 https://github.com/23225a4502/slashmark_tuts/assets/170292118/451ae0af-534e-4e7e-9203-16302b499ca1
 
-## 5.To download the project files from slash mark website
-
-click [here](https://slashmark.cloud/login1.php) goto slash mark
-
-## 6.extract the files
-
 # Git
 
 - 1.open terminal
@@ -55,29 +49,40 @@ click [here](https://slashmark.cloud/login1.php) goto slash mark
 git --version
 ```
 
+![Screenshot_20240528_214811](https://github.com/23225a4502/slashmark_tuts/assets/170292118/5f6ee552-685e-440a-a822-e3684355680a)
+
 - 3.add global configuration
 
 ```bash
 git config --global user.name "USERNAME"
 ```
-
 ```bash
 git config --global user.email "USEREMAIL"
 ```
+![Screenshot_20240528_214919](https://github.com/23225a4502/slashmark_tuts/assets/170292118/0854f037-bd6c-4937-a98b-a628c106336e)
 
-## 7.push project to github repository
+## 2.To download the project files from slash mark website
+
+click [here](https://slashmark.cloud/login1.php) goto slash mark
+
+## 3.extract the files
+## 4.push project to github repository
 
 ```bash
 git init -b main
 git add .
 git commit -m "slash mark projects"
 ```
+sample video:-
 
-### 8.after those commands execution open the github repository and copy the line of code as shown in the **video**
+https://github.com/23225a4502/slashmark_tuts/assets/170292118/d0f8f4d2-ac9e-43f3-8177-d18ff885244e
+
+
+### 5.after those commands execution open the github repository and copy the line of code as shown in the **video**
 
 [video]()
 
-### 9.final command to push to github repository
+### 5.final command to push to github repository
 
 ```bash
 git push origin main
